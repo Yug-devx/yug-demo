@@ -1,2 +1,3 @@
 # yug-demo
-This is  my first git repo
+This is  my first Git repo
+Author -- Yug shah
